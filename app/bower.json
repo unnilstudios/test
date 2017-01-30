@@ -1,0 +1,21 @@
+{
+  "name": "test_niri",
+  "authors": [
+    "Nemanja Kostic <unnilstudios@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1",
+    "bootstrap": "^3.3.7"
+  }
+}

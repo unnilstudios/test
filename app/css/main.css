@@ -1,0 +1,51 @@
+.jumbotron-moj h1 {
+  padding: 20px;
+  background-color: lightgray; }
+
+.content {
+  display: flex; }
+  .content .float-right {
+    float: right; }
+    .content .float-right .btn {
+      display: block;
+      width: 40px; }
+  .content .category-content {
+    border: 1px solid #777777;
+    border-radius: 5px;
+    height: 20em;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    list-style-type: none;
+    width: 100%;
+    position: relative; }
+    .content .category-content .check-box {
+      padding: 15px; }
+    .content .category-content .destroy {
+      position: absolute;
+      right: 0; }
+
+#headline {
+  background-color: #777777;
+  color: white;
+  padding: 15px;
+  text-transform: uppercase; }
+
+.col-p {
+  background-color: #f1f1f1;
+  padding: 5px; }
+
+#search-box {
+  width: 80%;
+  margin-bottom: 20px; }
+
+.right-col {
+  background-color: #f1f1f1; }
+  .right-col h4 {
+    text-transform: uppercase;
+    padding: 15px; }
+
+footer {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: black;
+  color: white; }
